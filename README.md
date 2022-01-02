@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @JokerPSYF
-- 👀 I’m interested in C# programming 
-- 🌱 I’m currently learning C# fundamentals int SoftUni.bg
+- 👀 I’m interested in C# programming and C++
+- 🌱 I’m currently learning C# Advanced in SoftUni.bg
 - 📫 How to reach me ? todorvasilev005gmail.com
 
 <!---
